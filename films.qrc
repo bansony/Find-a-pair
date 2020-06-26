@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>films/0.png</file>
+        <file>films/1.png</file>
+        <file>films/2.png</file>
+        <file>films/3.png</file>
+        <file>films/4.png</file>
+        <file>films/5.png</file>
+        <file>films/6.png</file>
+        <file>films/7.png</file>
+        <file>films/8.png</file>
+        <file>films/9.png</file>
+        <file>films/10.png</file>
+        <file>films/11.png</file>
+        <file>films/12.png</file>
+        <file>films/13.png</file>
+        <file>films/14.png</file>
+        <file>films/15.png</file>
+        <file>films/16.png</file>
+        <file>films/17.png</file>
+        <file>films/Fon.png</file>
+        <file>films/FonOver.png</file>
+        <file>films/notsong.png</file>
+        <file>films/song.png</file>
+    </qresource>
+</RCC>

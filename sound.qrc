@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sound/0.wav</file>
+        <file>sound/1.wav</file>
+        <file>sound/2.wav</file>
+        <file>sound/3.wav</file>
+        <file>sound/4.wav</file>
+        <file>sound/5.wav</file>
+        <file>sound/6.wav</file>
+        <file>sound/7.wav</file>
+        <file>sound/8.wav</file>
+        <file>sound/9.wav</file>
+        <file>sound/10.wav</file>
+        <file>sound/11.wav</file>
+        <file>sound/12.wav</file>
+        <file>sound/13.wav</file>
+        <file>sound/14.wav</file>
+        <file>sound/15.wav</file>
+        <file>sound/16.wav</file>
+        <file>sound/17.wav</file>
+        <file>sound/The Flow.wav</file>
+        <file>sound/gameOverMusic.wav</file>
+    </qresource>
+</RCC>
